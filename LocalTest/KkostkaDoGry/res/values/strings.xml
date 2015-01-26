@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KkostkaDoGry</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="kostka_do_gry_text">Kostka do gry</string>
+    <string name="generuj_text">Generuj</string>
+    <string name="przedzial_min_text">Przedział min</string>
+    <string name="przedzial_max_text">Przedział max</string>
+
+</resources>
